@@ -188,7 +188,7 @@ Salar Khaleed
 Omer Mokhtar 
 
 
-Aso Arshad [Github](https://github.com/hooshyar) |  [Linkedin](https://www.linkedin.com/in/hooshyar/) | [Stack Overflow](https://stackoverflow.com/users/10622449/hooshyar) 
+Aso Arshad [Github](https://https://github.com/Aso0o) |(https://https://stackoverflow.com/users/17595244/shera) 
 
 
 Sara Bakir
