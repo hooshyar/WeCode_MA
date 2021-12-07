@@ -197,7 +197,7 @@ Sara Bakir
 Yaseen Hossein
 
 
-Amad Bashir
+Amad Bashir  [Github](https://github.com/amad-a96) |  [Linkedin](https://www.linkedin.com/in/amad-bashir-615026227) | [Stack Overflow](https://stackoverflow.com/users/17595120/amad-bashir)
 
 
 Karwan Khdr
