@@ -202,7 +202,7 @@ Amad Bashir
 
 Karwan Khdr
 
-Ahmed aziz hassan   [Github](https://github.com/Ahmedaziz0) || [Stack Overflow](https://stackoverflow.com/users/12643186/ahmed-aziz) 
+Ahmed aziz hasan   [Github](https://github.com/Ahmedaziz0) || [Stack Overflow](https://stackoverflow.com/users/12643186/ahmed-aziz) 
 
 
 
