@@ -146,7 +146,7 @@ yahia hasan baiz
 Yahya Adnan Ghadhban
 
 
-Miran Ali Rasheed
+Miran Ali Rashid [Github](https://github.com/MiranAliRashid) |  [Linkedin](https://www.linkedin.com/in/miran-ali-82a748178/) | [Stack Overflow](https://stackoverflow.com/users/17595118/miran) 
 
 
 Bawar Khaled Azeez
