@@ -130,7 +130,7 @@ Aso Arshad
 
 Sara Bakir
 
-Yaseen Hussein [Github](https://github.com/Yassin-H-Rassul) | [Linkedin](https://www.linkedin.com/in/yassin-rassul/) | [Stack Overflow](https://stackoverflow.com/users/13059311/yassin-h-rassul)
+Yassin Hussein [Github](https://github.com/Yassin-H-Rassul) | [Linkedin](https://www.linkedin.com/in/yassin-rassul/) | [Stack Overflow](https://stackoverflow.com/users/13059311/yassin-h-rassul)
 
 Amad Bashir
 
