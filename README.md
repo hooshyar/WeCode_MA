@@ -176,7 +176,7 @@ Ahmed Naman
 Aland Abdulmajeed
 
 
-Shad Khaleed
+Shad Khalid  [Github](https://github.com/shad-khalid) | [Linkedin](https://www.linkedin.com/in/shad-khalid-944545227/) |  [Stack Overflow](https://stackoverflow.com/users/17622725/shad-khalid)
 
 
 Sako Ranj
