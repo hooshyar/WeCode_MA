@@ -185,7 +185,8 @@ Sako Ranj
 Salar Khaleed
 
 
-Omer Mokhtar 
+Omer Mukhtar   [Github](https://github.com/omerrmukhtarr) |  [Linkedin](https://www.linkedin.com/in/omer-mukhtar-950b951b7/) | [Stack Overflow](https://stackoverflow.com/users/17595096/omer-mukhtar?tab=profile)
+ 
 
 
 Aso Arshad
