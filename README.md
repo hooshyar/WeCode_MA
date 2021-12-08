@@ -2,7 +2,7 @@
 List of dear developers - WeCode Mobile Application Development Bootcamp 2021-2022
 
 
-Hooshyar Mohammed Rasol [Github](https://github.com/hooshyar) |  [Linkedin](https://www.linkedin.com/in/hooshyar/) | [Stack Overflow](https://stackoverflow.com/users/10622449/hooshyar) 
+Hooshyar Mohammed Rasol [Github](https://github.com/hooshyar) |  [Linkedin](https://www.linkedin.com/in/hooshyar/) | [Stack Overflow](https://stackoverflow.com/users/10622<span style='color: #000'>5</span><span style='color: #000'>1</span>9/hooshyar) 
 
 
 Abdullah Hussein Hamad
@@ -208,7 +208,7 @@ Karwan Khdr
 Zaynab Azad khdir
 
 
-
+Wrya Mhamad Hassan [Github](https://github.com/wrya-mhamad) |  [Linkedin](https://www.linkedin.com/in/wrya-mhamad-31024b185/) | [Stack Overflow](https://stackoverflow.com/users/13229231/wrya-mhamad) 
 
 
 
