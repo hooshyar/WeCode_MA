@@ -152,7 +152,7 @@ Miran Ali Rasheed
 Bawar Khaled Azeez
 
 
-Mohammed Mansour
+Mohammed Mansour [Github](https://github.com/hooshyar) |  [Linkedin](https://github.com/mohammedmansur) | [Stack Overflow](https://stackoverflow.com/) 
 
 
 Shanya Hushyar
