@@ -5,6 +5,9 @@ List of dear developers - WeCode Mobile Application Development Bootcamp 2021-20
 Hooshyar Mohammed Rasol [Github](https://github.com/hooshyar) |  [Linkedin](https://www.linkedin.com/in/hooshyar/) | [Stack Overflow](https://stackoverflow.com/users/10622449/hooshyar) 
 
 
+Maryam Salah Jubrail [Github](https://github.com/MaryyamSalah) |  [Linkedin](http://linkedin.com/in/maryam-salah-29b692139) | [Stack Overflow](https://stackoverflow.com/users/17595130/maryyam-salah) 
+
+
 Abdullah Hussein Hamad
 
 
@@ -30,7 +33,7 @@ Basira Tahir Ahmed
 
 
 bawer farhad hussein
-Maryam Salah Jubrail [Github](https://github.com/MaryyamSalah) |  [Linkedin](http://linkedin.com/in/maryam-salah-29b692139) | [Stack Overflow](https://stackoverflow.com/users/17595130/maryyam-salah) 
+
 
 
 Bnar Khalil Ibrahim 
