@@ -108,7 +108,7 @@ Yahya Adnan Ghadhban
 
 Miran Ali Rashid [Github](https://github.com/MiranAliRashid) |  [Linkedin](https://www.linkedin.com/in/miran-ali-82a748178/) | [Stack Overflow](https://stackoverflow.com/users/17595118/miran) 
 
-Bawar Khaled Azeez
+Bawar Khalid Aziz [Github](https://github.com/BawarX) | [linkedin](https://www.linkedin.com/in/bawar-khalid-265b4b227/) | [Stack Overflow](https://stackoverflow.com/users/14960532/bawar-khalid)
 
 Mohammed Mansour [Github](https://github.com/hooshyar) |  [Linkedin](https://github.com/mohammedmansur) | [Stack Overflow](https://stackoverflow.com/) 
 
