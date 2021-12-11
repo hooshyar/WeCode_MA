@@ -183,7 +183,7 @@ Shad Khaleed
 Sako Ranj
 
 
-Salar Khaleed
+Salar Khalid [Github](https://github.com/salarpro) |  [Linkedin](https://www.linkedin.com/in/salar-pro-13b970120/) | [Stack Overflow](https://stackoverflow.com/users/5862126/salar-pro) 
 
 
 Omer Mokhtar 
