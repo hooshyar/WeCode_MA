@@ -26,6 +26,10 @@ Ashna Salam Mhammad
 Avin Fateh Rasul
 
 
+Azad Khorsheed Rasheed [Github](https://github.com/azadlinavay) |  [Linkedin](https://www.linkedin.com/in/azad-linavay-6b291520b/) | [Stack Overflow](https://stackoverflow.com/users/10904019/azad-linavay) 
+
+
+
 Basira Tahir Ahmed 
 
 
