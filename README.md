@@ -149,6 +149,8 @@ Karwan Khdr
 
 Zaynab Azad khdir
 
+Hekar Azwar Mohammed Salih [Github](https://github.com/HekarAMohammad) | [Stack Overflow](https://stackoverflow.com/users/13974543/hekar-azwar-mohemmad-salih) 
+
 Rasan Diyar Tayeb [Github](https://github.com/titan-ui) | [linkedin](https://stackoverflow.com/users/17604539/titan-ui)
 
 Rasty Azad Qadir [Github](https://github.com/RastyIT97) | [Stack Overflow](https://stackoverflow.com/users/16274767/rasty-azad) 
