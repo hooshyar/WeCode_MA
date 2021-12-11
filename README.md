@@ -1,3 +1,10 @@
+https://www.linkedin.com/in/sipal-salam-7b7602218
+
+https://github.com/Sipal00
+
+https://stackoverflow.com/users/17595226/sipal
+
+
 # WeCode_MA
 
 
