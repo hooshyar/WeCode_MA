@@ -29,7 +29,6 @@ Avin Fateh Rasul
 Azad Khorsheed Rasheed [Github](https://github.com/azadlinavay) |  [Linkedin](https://www.linkedin.com/in/azad-linavay-6b291520b/) | [Stack Overflow](https://stackoverflow.com/users/10904019/azad-linavay) 
 
 
-
 Basira Tahir Ahmed 
 
 
@@ -208,11 +207,14 @@ Amad Bashir  [Github](https://github.com/amad-a96) |  [Linkedin](https://www.lin
 Karwan Khdr
 
 
-
-
 Zaynab Azad khdir
 
+
+Rasan Diyar Tayeb [Github](https://github.com/titan-ui) | [linkedin](https://stackoverflow.com/users/17604539/titan-ui)
+
+
 Rasty Azad Qadir [Github](https://github.com/RastyIT97) | [Stack Overflow](https://stackoverflow.com/users/16274767/rasty-azad) 
+
 
 muhamad tahsin karem  [Github](https://github.com/muhamad3) |  [Linkedin](https://www.linkedin.com/in/muhamad-tahsin-29b80a1a9) | [Stack Overflow](https://stackoverflow.com/users/14649300/muhamad-tahsin) 
 
