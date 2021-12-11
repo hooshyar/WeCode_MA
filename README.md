@@ -112,6 +112,9 @@ Shanya Hushyar
 
 Sipal Salam
 
+
+Mostafa Majeed [Github]( https://github.com/mstafamajid) |  [Linkedin](https://www.linkedin.com/in/mustafa-majid-166327224) | [Stack Overflow](https://stackoverflow.com/users/17595137/mustafa-majid) 
+
 Mostafa Majeed
 
 Karwan Msto
