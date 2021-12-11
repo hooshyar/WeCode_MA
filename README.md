@@ -22,7 +22,6 @@ Basira Tahir Ahmed
 
 Azad Khorsheed Rasheed [Github](https://github.com/azadlinavay) |  [Linkedin](https://www.linkedin.com/in/azad-linavay-6b291520b/) | [Stack Overflow](https://stackoverflow.com/users/10904019/azad-linavay) 
 
-Basira Tahir Ahmed 
 
 bawer farhad hussein
 
@@ -34,8 +33,7 @@ Chra othman ali qadr
 
 Diako Kaso Chalak
 
-Delman Ali 
-[Github](https://github.com/delmanAli) | [Linkedin](https://www.linkedin.com/in/delman-ali-84a994159/)|[Stack Overflow](https://stackoverflow.com/users/17595273/delman-ali) 
+Delman Ali [Github](https://github.com/delmanAli) | [Linkedin](https://www.linkedin.com/in/delman-ali-84a994159/)|[Stack Overflow](https://stackoverflow.com/users/17595273/delman-ali) 
 
 Dosty Dilshad Abdulhameed
 
@@ -105,6 +103,17 @@ yahia hasan baiz
 
 Yahya Adnan Ghadhban
 
+Miran Ali Rasheed
+
+Bawar Khaled Azeez
+
+Mohammed Mansour
+
+Shanya Hushyar
+
+Sipal Salam
+
+=======
 
 Miran Ali Rashid [Github](https://github.com/MiranAliRashid) |  [Linkedin](https://www.linkedin.com/in/miran-ali-82a748178/) | [Stack Overflow](https://stackoverflow.com/users/17595118/miran) 
 
@@ -128,12 +137,15 @@ Ahmed Naman
 
 Aland Abdulmajeed
 
+Shad Khaleed
+
 Shad Khalid  [Github](https://github.com/shad-khalid) | [Linkedin](https://www.linkedin.com/in/shad-khalid-944545227/) |  [Stack Overflow](https://stackoverflow.com/users/17622725/shad-khalid)
 
 Sako Ranj  [Github](https://github.com/sako-ranj) |  [Linkedin](https://www.linkedin.com/in/sako-ranj-570031213/) | [Stack Overflow](https://stackoverflow.com/users/15195981/sako-ranj) 
 
-
 Salar Khaleed
+
+Omer Mokhtar
 
 Salar Khalid [Github](https://github.com/salarpro) |  [Linkedin](https://www.linkedin.com/in/salar-pro-13b970120/) | [Stack Overflow](https://stackoverflow.com/users/5862126/salar-pro) 
 
@@ -142,6 +154,14 @@ Omer Mukhtar   [Github](https://github.com/omerrmukhtarr) |  [Linkedin](https://
 Aso Arshad
 
 Sara Bakir
+
+Yaseen Hossein
+
+Amad Bashir
+
+Karwan Khdr[Github](https://github.com/karwan01) | [Linkedin](https://www.linkedin.com/in/karwan-khdhr-590b5a1a8/) | [Stack Overflow](https://stackoverflow.com/users/17595109/karwan-rasul)
+
+Zaynab Azad khdir
 
 Sara Bakir [Github](https://github.com/Sarahbakr) | [Stack Overflow](https://stackoverflow.com/users/17628902/sarah-bakr) 
 
