@@ -111,7 +111,7 @@ Bawar Khaled Azeez
 
 Mohammed Mansour [Github](https://github.com/hooshyar) |  [Linkedin](https://github.com/mohammedmansur) | [Stack Overflow](https://stackoverflow.com/) 
 
-Shanya Hushyar
+Shanya Hushyar [Github](https://github.com/Shanyahushyar) |  [Stack Overflow](https://stackoverflow.com/users/17595162/shanya-hushyar)
 
 Sipal Salam
 
