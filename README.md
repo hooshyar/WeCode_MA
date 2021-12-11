@@ -133,8 +133,8 @@ Salar Khaleed
 
 Salar Khalid [Github](https://github.com/salarpro) |  [Linkedin](https://www.linkedin.com/in/salar-pro-13b970120/) | [Stack Overflow](https://stackoverflow.com/users/5862126/salar-pro) 
 
-Omer Mokhtar
-
+Omer Mukhtar   [Github](https://github.com/omerrmukhtarr) |  [Linkedin](https://www.linkedin.com/in/omer-mukhtar-950b951b7/) | [Stack Overflow](https://stackoverflow.com/users/17595096/omer-mukhtar?tab=profile)
+ 
 Aso Arshad
 
 Sara Bakir
@@ -149,11 +149,7 @@ Karwan Khdr
 
 Zaynab Azad khdir
 
-Zaynab Azad khdir
-
-
 Rasan Diyar Tayeb [Github](https://github.com/titan-ui) | [linkedin](https://stackoverflow.com/users/17604539/titan-ui)
-
 
 Rasty Azad Qadir [Github](https://github.com/RastyIT97) | [Stack Overflow](https://stackoverflow.com/users/16274767/rasty-azad) 
 
