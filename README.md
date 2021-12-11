@@ -1,6 +1,6 @@
 # WeCode_MA
 
-List of dear developers - WeCode Mobile Application Development Bootcamp 2021-2022
+### List of dear developers - WeCode Mobile Application Development Bootcamp 2021-2022
 
 Hooshyar Mohammed Rasol [Github](https://github.com/hooshyar) | [Linkedin](https://www.linkedin.com/in/hooshyar/) | [Stack Overflow](https://stackoverflow.com/users/10622449/hooshyar)
 
@@ -154,6 +154,8 @@ Hekar Azwar Mohammed Salih [Github](https://github.com/HekarAMohammad) | [Stack 
 Rasan Diyar Tayeb [Github](https://github.com/titan-ui) | [linkedin](https://stackoverflow.com/users/17604539/titan-ui)
 
 Rasty Azad Qadir [Github](https://github.com/RastyIT97) | [Stack Overflow](https://stackoverflow.com/users/16274767/rasty-azad) 
+
+Wrya Mhamad Hassan [Github](https://github.com/wrya-mhamad) |  [Linkedin](https://www.linkedin.com/in/wrya-mhamad-31024b185/) | [Stack Overflow](https://stackoverflow.com/users/13229231/wrya-mhamad) 
 
 Tahir Awal Ghafur [Github](https://github.com/tatosoll) |  [Linkedin](https://www.linkedin.com/in/tahir-awal-490651201/)| [Stack Overflow] (https://stackoverflow.com/users/17595960/tahir-awal?tab=profile)
 
