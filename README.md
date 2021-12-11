@@ -49,6 +49,9 @@ Delman Ali
 
 Dosty Dilshad Abdulhameed
 
+Darwaza Farhad Sabir  [Github](https://github.com/Darwaza2021) |  [Linkedin](https://www.linkedin.com/in/darwaza-farhad-50a67b225/) | [Stack Overflow](https://stackoverflow.com/users/17322287/darwaza-farhad) 
+
+
 
 Elias yaseen saber
 
