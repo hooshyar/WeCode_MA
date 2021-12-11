@@ -167,7 +167,8 @@ Mostafa Majeed
 Karwan Msto
 
 
-Ali Farhad
+Ali Farhad [Github](https://github.com/1-Ali-1/) |  [Linkedin](https://www.linkedin.com/in/ali-farhad-90b4b8198) | [Stack Overflow](https://stackoverflow.com/users/14529397/alifarhad-ali) 
+
 
 
 Ahmed Naman
