@@ -20,6 +20,10 @@ Avin Fateh Rasul
 
 Basira Tahir Ahmed
 
+Azad Khorsheed Rasheed [Github](https://github.com/azadlinavay) |  [Linkedin](https://www.linkedin.com/in/azad-linavay-6b291520b/) | [Stack Overflow](https://stackoverflow.com/users/10904019/azad-linavay) 
+
+Basira Tahir Ahmed 
+
 bawer farhad hussein
 
 Bnar Khalil Ibrahim
@@ -112,7 +116,7 @@ Mostafa Majeed
 
 Karwan Msto
 
-Ali Farhad
+Ali Farhad [Github](https://github.com/1-Ali-1/) |  [Linkedin](https://www.linkedin.com/in/ali-farhad-90b4b8198) | [Stack Overflow](https://stackoverflow.com/users/14529397/alifarhad-ali) 
 
 Ahmed Naman
 
@@ -124,16 +128,35 @@ Sako Ranj
 
 Salar Khaleed
 
+Salar Khalid [Github](https://github.com/salarpro) |  [Linkedin](https://www.linkedin.com/in/salar-pro-13b970120/) | [Stack Overflow](https://stackoverflow.com/users/5862126/salar-pro) 
+
 Omer Mokhtar
 
 Aso Arshad
 
 Sara Bakir
 
+Sara Bakir [Github](https://github.com/Sarahbakr) | [Stack Overflow](https://stackoverflow.com/users/17628902/sarah-bakr) 
+
 Yassin Hussein [Github](https://github.com/Yassin-H-Rassul) | [Linkedin](https://www.linkedin.com/in/yassin-rassul/) | [Stack Overflow](https://stackoverflow.com/users/13059311/yassin-h-rassul)
 
-Amad Bashir
+Amad Bashir  [Github](https://github.com/amad-a96) |  [Linkedin](https://www.linkedin.com/in/amad-bashir-615026227) | [Stack Overflow](https://stackoverflow.com/users/17595120/amad-bashir)
 
 Karwan Khdr
 
 Zaynab Azad khdir
+
+Zaynab Azad khdir
+
+
+Rasan Diyar Tayeb [Github](https://github.com/titan-ui) | [linkedin](https://stackoverflow.com/users/17604539/titan-ui)
+
+
+Rasty Azad Qadir [Github](https://github.com/RastyIT97) | [Stack Overflow](https://stackoverflow.com/users/16274767/rasty-azad) 
+
+
+muhamad tahsin karem  [Github](https://github.com/muhamad3) |  [Linkedin](https://www.linkedin.com/in/muhamad-tahsin-29b80a1a9) | [Stack Overflow](https://stackoverflow.com/users/14649300/muhamad-tahsin) 
+
+
+
+
