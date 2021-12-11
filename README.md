@@ -130,7 +130,8 @@ Aland Abdulmajeed
 
 Shad Khalid  [Github](https://github.com/shad-khalid) | [Linkedin](https://www.linkedin.com/in/shad-khalid-944545227/) |  [Stack Overflow](https://stackoverflow.com/users/17622725/shad-khalid)
 
-Sako Ranj
+Sako Ranj  [Github](https://github.com/sako-ranj) |  [Linkedin](https://www.linkedin.com/in/sako-ranj-570031213/) | [Stack Overflow](https://stackoverflow.com/users/15195981/sako-ranj) 
+
 
 Salar Khaleed
 
