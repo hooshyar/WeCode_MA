@@ -1,6 +1,8 @@
 # WeCode_MA
 
+
 ### List of dear developers - WeCode Mobile Application Development Bootcamp 2021-2022
+
 
 Hooshyar Mohammed Rasol [Github](https://github.com/hooshyar) | [Linkedin](https://www.linkedin.com/in/hooshyar/) | [Stack Overflow](https://stackoverflow.com/users/10622449/hooshyar)
 
@@ -21,7 +23,6 @@ Avin Fateh Rasul
 Basira Tahir Ahmed
 
 Azad Khorsheed Rasheed [Github](https://github.com/azadlinavay) |  [Linkedin](https://www.linkedin.com/in/azad-linavay-6b291520b/) | [Stack Overflow](https://stackoverflow.com/users/10904019/azad-linavay) 
-
 
 bawer farhad hussein
 
@@ -75,6 +76,8 @@ Omer Dhahir Saeed
 
 Omer Husni Rmadhan
 
+Rafaat Khalil Abubakr [Github](https://github.com/rafaatxalil365) | [Linkedin](https://www.linkedin.com/in/rafaat-abubakir-a929b3213/) | [Stack Overflow](https://stackoverflow.com/users/17352516/rafaat-xalil)
+
 rashed sadraddin rashed
 
 Rebar Salam Mhammad
@@ -113,7 +116,23 @@ Shanya Hushyar
 
 Sipal Salam
 
-=======
+Mostafa Majeed
+
+Karwan Msto
+
+Ali Farhad
+
+Ahmed Naman
+
+Aland Abdulmajeed
+
+Shad Khaleed
+
+Sako Ranj
+
+Salar Khaleed
+
+Omer Mokhtar
 
 Miran Ali Rashid [Github](https://github.com/MiranAliRashid) |  [Linkedin](https://www.linkedin.com/in/miran-ali-82a748178/) | [Stack Overflow](https://stackoverflow.com/users/17595118/miran) 
 
@@ -159,9 +178,11 @@ Yaseen Hossein
 
 Amad Bashir
 
-Karwan Khdr[Github](https://github.com/karwan01) | [Linkedin](https://www.linkedin.com/in/karwan-khdhr-590b5a1a8/) | [Stack Overflow](https://stackoverflow.com/users/17595109/karwan-rasul)
+Karwan Khdr
 
 Zaynab Azad khdir
+
+Karwan Khdr[Github](https://github.com/karwan01) | [Linkedin](https://www.linkedin.com/in/karwan-khdhr-590b5a1a8/) | [Stack Overflow](https://stackoverflow.com/users/17595109/karwan-rasul)
 
 Sara Bakir [Github](https://github.com/Sarahbakr) | [Stack Overflow](https://stackoverflow.com/users/17628902/sarah-bakr) 
 
