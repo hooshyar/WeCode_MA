@@ -109,12 +109,11 @@ Miran Ali Rasheed
 
 Bawar Khaled Azeez
 
-Mohammed Mansour
+Mohammed Mansour [Github](https://github.com/hooshyar) |  [Linkedin](https://github.com/mohammedmansur) | [Stack Overflow](https://stackoverflow.com/) 
 
 Shanya Hushyar
 
 Sipal Salam
-
 
 Mostafa Majeed [Github]( https://github.com/mstafamajid) |  [Linkedin](https://www.linkedin.com/in/mustafa-majid-166327224) | [Stack Overflow](https://stackoverflow.com/users/17595137/mustafa-majid) 
 
