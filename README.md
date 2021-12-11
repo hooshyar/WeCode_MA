@@ -34,7 +34,8 @@ Chra othman ali qadr
 
 Diako Kaso Chalak
 
-Delman Ali
+Delman Ali 
+[Github](https://github.com/delmanAli) | [Linkedin](https://www.linkedin.com/in/delman-ali-84a994159/)|[Stack Overflow](https://stackoverflow.com/users/17595273/delman-ali) 
 
 Dosty Dilshad Abdulhameed
 
