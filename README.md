@@ -47,6 +47,8 @@ Hiwa Sadraldeen Mohammedameen
 
 Honar Khudhur Deewalee
 
+Huda Hamid Said [Github](https://github.com/hudahamid )  |  [Linkedin](https://www.linkedin.com/in/huda-hamid-7524a6159)  | [Stack Overflow](https://stackoverflow.com/users/17595301/huda-hamid)
+
 Kawan Idrees Mawlood
 
 khabar karim muhamad
