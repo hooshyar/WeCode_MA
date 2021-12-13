@@ -148,7 +148,8 @@ Mohammed Mansour [Github](https://github.com/hooshyar) |  [Linkedin](https://git
 
 Shanya Hushyar [Github](https://github.com/Shanyahushyar) |  [Stack Overflow](https://stackoverflow.com/users/17595162/shanya-hushyar)
 
-Sipal Salam
+Sipal Salam Sipal Salam [Github](https://github.com/Sipal00) | [Linkedin](https://www.linkedin.com/in/sipal-salam-7b7602218) | [Stack Overflow](https://stackoverflow.com/users/17595226/sipal)
+
 
 Mostafa Majeed [Github]( https://github.com/mstafamajid) |  [Linkedin](https://www.linkedin.com/in/mustafa-majid-166327224) | [Stack Overflow](https://stackoverflow.com/users/17595137/mustafa-majid) 
 
