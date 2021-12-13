@@ -10,8 +10,6 @@ Abdullah Hussein Hamad
 
 Hooshyar Mohammed Rasol [Github](https://github.com/hooshyar) | [Linkedin](https://www.linkedin.com/in/hooshyar/) | [Stack Overflow](https://stackoverflow.com/users/10622449/hooshyar)
 
-Abdullah Hussein Hamad
-
 Ahmad Helal MuhammedSaied
 
 Amanj Azad Ameen
@@ -66,7 +64,7 @@ Mohammed Rasool
 
 Mohammed Salah Sahde
 
-mohammed wshyar abdullah
+Mohammed wshyar abdullah
 
 Muhammad sdeq
 
@@ -82,7 +80,7 @@ Omer Dhahir Saeed
 
 Omer Husni Rmadhan
 
-Rafaat Khalil Abubakr [Github](https://github.com/rafaatxalil365) | [Linkedin](https://www.linkedin.com/in/rafaat-abubakir-a929b3213/) | [Stack Overflow](https://stackoverflow.com/users/17352516/rafaat-xalil)
+Rafaat Khalil Abubakr | 👍&nbsp; x 1 | [Github](https://github.com/rafaatxalil365) | [Linkedin](https://www.linkedin.com/in/rafaat-abubakir-a929b3213/) | [Stack Overflow](https://stackoverflow.com/users/17352516/rafaat-xalil)
 
 rashed sadraddin rashed
 
@@ -112,48 +110,17 @@ yahia hasan baiz
 
 Yahya Adnan Ghadhban
 
-Miran Ali Rasheed
+Miran Ali Rashid | 👍&nbsp; x 1 | [Github](https://github.com/MiranAliRashid) |  [Linkedin](https://www.linkedin.com/in/miran-ali-82a748178/) | [Stack Overflow](https://stackoverflow.com/users/17595118/miran) 
 
-Bawar Khaled Azeez
-
-Mohammed Mansour
-
-Shanya Hushyar
-
-Sipal Salam
-
-Mostafa Majeed
-
-Karwan Msto
-
-Ali Farhad
-
-Ahmed Naman
-
-Aland Abdulmajeed
-
-Shad Khaleed
-
-Sako Ranj
-
-Salar Khaleed
-
-Omer Mokhtar
-
-Miran Ali Rashid [Github](https://github.com/MiranAliRashid) |  [Linkedin](https://www.linkedin.com/in/miran-ali-82a748178/) | [Stack Overflow](https://stackoverflow.com/users/17595118/miran) 
-
-Bawar Khalid Aziz [Github](https://github.com/BawarX) | [linkedin](https://www.linkedin.com/in/bawar-khalid-265b4b227/) | [Stack Overflow](https://stackoverflow.com/users/14960532/bawar-khalid)
+Bawar Khalid Aziz | 👍&nbsp; x 1 | [Github](https://github.com/BawarX) | [linkedin](https://www.linkedin.com/in/bawar-khalid-265b4b227/) | [Stack Overflow](https://stackoverflow.com/users/14960532/bawar-khalid)
 
 Mohammed Mansour [Github](https://github.com/hooshyar) |  [Linkedin](https://github.com/mohammedmansur) | [Stack Overflow](https://stackoverflow.com/) 
 
-Shanya Hushyar [Github](https://github.com/Shanyahushyar) |  [Stack Overflow](https://stackoverflow.com/users/17595162/shanya-hushyar)
+Shanya Hushyar | 👍&nbsp; x 1 | [Github](https://github.com/Shanyahushyar) |  [Stack Overflow](https://stackoverflow.com/users/17595162/shanya-hushyar)
 
-Sipal Salam Sipal Salam [Github](https://github.com/Sipal00) | [Linkedin](https://www.linkedin.com/in/sipal-salam-7b7602218) | [Stack Overflow](https://stackoverflow.com/users/17595226/sipal)
+Sipal Salam | 👍&nbsp; x 1 | [Github](https://github.com/Sipal00) | [Linkedin](https://www.linkedin.com/in/sipal-salam-7b7602218) | [Stack Overflow](https://stackoverflow.com/users/17595226/sipal)
 
-
-Mostafa Majeed [Github]( https://github.com/mstafamajid) |  [Linkedin](https://www.linkedin.com/in/mustafa-majid-166327224) | [Stack Overflow](https://stackoverflow.com/users/17595137/mustafa-majid) 
-
-Mostafa Majeed
+Mostafa Majeed | 👍&nbsp; x 1 | [Github]( https://github.com/mstafamajid) |  [Linkedin](https://www.linkedin.com/in/mustafa-majid-166327224) | [Stack Overflow](https://stackoverflow.com/users/17595137/mustafa-majid) 
 
 Karwan Msto
 
@@ -163,31 +130,17 @@ Ahmed Naman
 
 Aland Abdulmajeed
 
-Shad Khaleed
+Shad Khalid | 👍&nbsp; x 1 | [Github](https://github.com/shad-khalid) | [Linkedin](https://www.linkedin.com/in/shad-khalid-944545227/) |  [Stack Overflow](https://stackoverflow.com/users/17622725/shad-khalid)
 
-Shad Khalid  [Github](https://github.com/shad-khalid) | [Linkedin](https://www.linkedin.com/in/shad-khalid-944545227/) |  [Stack Overflow](https://stackoverflow.com/users/17622725/shad-khalid)
+Sako Ranj | 👍&nbsp; x 1 | [Github](https://github.com/sako-ranj) |  [Linkedin](https://www.linkedin.com/in/sako-ranj-570031213/) | [Stack Overflow](https://stackoverflow.com/users/15195981/sako-ranj) 
 
-Sako Ranj  [Github](https://github.com/sako-ranj) |  [Linkedin](https://www.linkedin.com/in/sako-ranj-570031213/) | [Stack Overflow](https://stackoverflow.com/users/15195981/sako-ranj) 
+Salar Khalid | 👍&nbsp; x 1 | [Github](https://github.com/salarpro) |  [Linkedin](https://www.linkedin.com/in/salar-pro-13b970120/) | [Stack Overflow](https://stackoverflow.com/users/5862126/salar-pro) 
 
-Salar Khaleed
-
-Omer Mokhtar
-
-Salar Khalid [Github](https://github.com/salarpro) |  [Linkedin](https://www.linkedin.com/in/salar-pro-13b970120/) | [Stack Overflow](https://stackoverflow.com/users/5862126/salar-pro) 
-
-Omer Mukhtar   [Github](https://github.com/omerrmukhtarr) |  [Linkedin](https://www.linkedin.com/in/omer-mukhtar-950b951b7/) | [Stack Overflow](https://stackoverflow.com/users/17595096/omer-mukhtar?tab=profile)
+Omer Mukhtar | 👍&nbsp; x 1 |  [Github](https://github.com/omerrmukhtarr) |  [Linkedin](https://www.linkedin.com/in/omer-mukhtar-950b951b7/) | [Stack Overflow](https://stackoverflow.com/users/17595096/omer-mukhtar?tab=profile)
  
-Aso Arshad
-
-Sara Bakir
+Aso Arshad | 👍&nbsp; x 1 |
 
 Yaseen Hossein
-
-Amad Bashir
-
-Karwan Khdr
-
-Zaynab Azad khdir
 
 Karwan Khdr[Github](https://github.com/karwan01) | [Linkedin](https://www.linkedin.com/in/karwan-khdhr-590b5a1a8/) | [Stack Overflow](https://stackoverflow.com/users/17595109/karwan-rasul)
 
@@ -197,27 +150,25 @@ Yassin Hussein [Github](https://github.com/Yassin-H-Rassul) | [Linkedin](https:/
 
 Amad Bashir  [Github](https://github.com/amad-a96) |  [Linkedin](https://www.linkedin.com/in/amad-bashir-615026227) | [Stack Overflow](https://stackoverflow.com/users/17595120/amad-bashir)
 
-Karwan Khdr
-
 Zaynab Azad khdir
 
-Hekar Azwar Mohammed Salih [Github](https://github.com/HekarAMohammad) | [Stack Overflow](https://stackoverflow.com/users/13974543/hekar-azwar-mohemmad-salih) 
+Hekar Azwar Mohammed Salih | 👍&nbsp; x 1 | [Github](https://github.com/HekarAMohammad) | [Stack Overflow](https://stackoverflow.com/users/13974543/hekar-azwar-mohemmad-salih) 
 
 Rasan Diyar Tayeb [Github](https://github.com/titan-ui) | [linkedin](https://stackoverflow.com/users/17604539/titan-ui)
 
-Rasty Azad Qadir [Github](https://github.com/RastyIT97) | [Stack Overflow](https://stackoverflow.com/users/16274767/rasty-azad) 
+Rasty Azad Qadir | 👍&nbsp; x 1 | [Github](https://github.com/RastyIT97) | [Stack Overflow](https://stackoverflow.com/users/16274767/rasty-azad) 
 
-Wrya Mhamad Hassan [Github](https://github.com/wrya-mhamad) |  [Linkedin](https://www.linkedin.com/in/wrya-mhamad-31024b185/) | [Stack Overflow](https://stackoverflow.com/users/13229231/wrya-mhamad) 
+Wrya Mhamad Hassan | 👍&nbsp; x 1 | [Github](https://github.com/wrya-mhamad) |  [Linkedin](https://www.linkedin.com/in/wrya-mhamad-31024b185/) | [Stack Overflow](https://stackoverflow.com/users/13229231/wrya-mhamad) 
 
-Tahir Awal Ghafur [Github](https://github.com/tatosoll) |  [Linkedin](https://www.linkedin.com/in/tahir-awal-490651201/)| [Stack Overflow] (https://stackoverflow.com/users/17595960/tahir-awal?tab=profile)
+Tahir Awal Ghafur [Github](https://github.com/tatosoll) |  [Linkedin](https://www.linkedin.com/in/tahir-awal-490651201/)| [Stack Overflow](https://stackoverflow.com/users/17595960/tahir-awal?tab=profile)
 
-Mohammed Ahmed Salim  [Github](https://github.com/mohamed199898) |  [Linkedin](https://www.linkedin.com/in/mohamad-amedy-078467165/) | [Stack Overflow](https://stackoverflow.com/users/17595148/mohammed-ahmed-salim)
+Mohammed Ahmed Salim | 👍&nbsp; x 1 | [Github](https://github.com/mohamed199898) |  [Linkedin](https://www.linkedin.com/in/mohamad-amedy-078467165/) | [Stack Overflow](https://stackoverflow.com/users/17595148/mohammed-ahmed-salim)
 
 Shene Wali Khalid [Github](https://github.com/shenekhalid) | [Stack Overflow](https://stackoverflow.com/users/17595197/shene-wali)  |  [Linkedin](https://www.linkedin.com/mwlite/in/shene-wali-189450228)
 
 muhamad tahsin karem  [Github](https://github.com/muhamad3) |  [Linkedin](https://www.linkedin.com/in/muhamad-tahsin-29b80a1a9) | [Stack Overflow](https://stackoverflow.com/users/14649300/muhamad-tahsin) 
 
-Ayman Abd Saeed [Github](https://github.com/AymanAbd9) |  [Linkedin](https://www.linkedin.com/in/ayman-abd-60838a228/) | [Stack Overflow](https://stackoverflow.com/users/17595097/ayman-abd)
+Ayman Abd Saeed | 👍&nbsp; x 1 | [Github](https://github.com/AymanAbd9) |  [Linkedin](https://www.linkedin.com/in/ayman-abd-60838a228/) | [Stack Overflow](https://stackoverflow.com/users/17595097/ayman-abd)
 
 Milad Mirkhan Majeed [Github](https://github.com/miladmirkhan) | [Linkedin](https://www.linkedin.com/in/milad-mirkhan-63537521a/) | [Stack Overflow](https://stackoverflow.com/users/16825719/milad-mirkhan)
 
