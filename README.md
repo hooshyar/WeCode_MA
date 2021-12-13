@@ -1,6 +1,12 @@
 # WeCode_MA
 
+
 ### List of dear developers - WeCode Mobile Application Development Bootcamp 2021-2022
+
+
+Maryam Salah Jubrail [Github](https://github.com/MaryyamSalah) |  [Linkedin](http://linkedin.com/in/maryam-salah-29b692139) | [Stack Overflow](https://stackoverflow.com/users/17595130/maryyam-salah) 
+
+Abdullah Hussein Hamad
 
 Hooshyar Mohammed Rasol [Github](https://github.com/hooshyar) | [Linkedin](https://www.linkedin.com/in/hooshyar/) | [Stack Overflow](https://stackoverflow.com/users/10622449/hooshyar)
 
@@ -22,12 +28,11 @@ Basira Tahir Ahmed
 
 Azad Khorsheed Rasheed [Github](https://github.com/azadlinavay) |  [Linkedin](https://www.linkedin.com/in/azad-linavay-6b291520b/) | [Stack Overflow](https://stackoverflow.com/users/10904019/azad-linavay) 
 
-
 bawer farhad hussein
 
 Bnar Khalil Ibrahim
 
-Bushra Fateh
+Bushra Fateh 
 
 Chra othman ali qadr
 
@@ -36,6 +41,8 @@ Diako Kaso Chalak
 Delman Ali [Github](https://github.com/delmanAli) | [Linkedin](https://www.linkedin.com/in/delman-ali-84a994159/)|[Stack Overflow](https://stackoverflow.com/users/17595273/delman-ali) 
 
 Dosty Dilshad Abdulhameed
+
+Darwaza Farhad Sabir  [Github](https://github.com/Darwaza2021) |  [Linkedin](https://www.linkedin.com/in/darwaza-farhad-50a67b225/) | [Stack Overflow](https://stackoverflow.com/users/17322287/darwaza-farhad) 
 
 Elias yaseen saber
 
@@ -75,6 +82,8 @@ Omer Dhahir Saeed
 
 Omer Husni Rmadhan
 
+Rafaat Khalil Abubakr [Github](https://github.com/rafaatxalil365) | [Linkedin](https://www.linkedin.com/in/rafaat-abubakir-a929b3213/) | [Stack Overflow](https://stackoverflow.com/users/17352516/rafaat-xalil)
+
 rashed sadraddin rashed
 
 Rebar Salam Mhammad
@@ -113,7 +122,23 @@ Shanya Hushyar
 
 Sipal Salam
 
-=======
+Mostafa Majeed
+
+Karwan Msto
+
+Ali Farhad
+
+Ahmed Naman
+
+Aland Abdulmajeed
+
+Shad Khaleed
+
+Sako Ranj
+
+Salar Khaleed
+
+Omer Mokhtar
 
 Miran Ali Rashid [Github](https://github.com/MiranAliRashid) |  [Linkedin](https://www.linkedin.com/in/miran-ali-82a748178/) | [Stack Overflow](https://stackoverflow.com/users/17595118/miran) 
 
@@ -159,9 +184,11 @@ Yaseen Hossein
 
 Amad Bashir
 
-Karwan Khdr[Github](https://github.com/karwan01) | [Linkedin](https://www.linkedin.com/in/karwan-khdhr-590b5a1a8/) | [Stack Overflow](https://stackoverflow.com/users/17595109/karwan-rasul)
+Karwan Khdr
 
 Zaynab Azad khdir
+
+Karwan Khdr[Github](https://github.com/karwan01) | [Linkedin](https://www.linkedin.com/in/karwan-khdhr-590b5a1a8/) | [Stack Overflow](https://stackoverflow.com/users/17595109/karwan-rasul)
 
 Sara Bakir [Github](https://github.com/Sarahbakr) | [Stack Overflow](https://stackoverflow.com/users/17628902/sarah-bakr) 
 
@@ -189,6 +216,7 @@ Shene Wali Khalid [Github](https://github.com/shenekhalid) | [Stack Overflow](ht
 
 muhamad tahsin karem  [Github](https://github.com/muhamad3) |  [Linkedin](https://www.linkedin.com/in/muhamad-tahsin-29b80a1a9) | [Stack Overflow](https://stackoverflow.com/users/14649300/muhamad-tahsin) 
 
+Ayman Abd Saeed [Github](https://github.com/AymanAbd9) |  [Linkedin](https://www.linkedin.com/in/ayman-abd-60838a228/) | [Stack Overflow](https://stackoverflow.com/users/17595097/ayman-abd)
 
-
+Milad Mirkhan Majeed [Github](https://github.com/miladmirkhan) | [Linkedin](https://www.linkedin.com/in/milad-mirkhan-63537521a/) | [Stack Overflow](https://stackoverflow.com/users/16825719/milad-mirkhan)
 
