@@ -1,6 +1,3 @@
-
-in class: write a program which calculates sum and average of some number, we dont know the length
-
 Write a Dart program which gets a string and a char 
 
 - counts the characters
@@ -9,6 +6,6 @@ Write a Dart program which gets a string and a char
 - print a reversed version of the string
 
 
-
+Example: 
 String char = H ; 
 String theString = "Wyar" ; 
