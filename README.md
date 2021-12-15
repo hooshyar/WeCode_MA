@@ -152,6 +152,8 @@ Amad Bashir  [Github](https://github.com/amad-a96) |  [Linkedin](https://www.lin
 
 Zaynab Azad khdir
 
+Ahmed aziz hasan   [Github] (https://github.com/Ahmedaziz0) || [Stack Overflow](https://stackoverflow.com/users/12643186/ahmed-aziz) 
+
 Hekar Azwar Mohammed Salih | 👍&nbsp; x 1 | [Github](https://github.com/HekarAMohammad) | [Stack Overflow](https://stackoverflow.com/users/13974543/hekar-azwar-mohemmad-salih) 
 
 Rasan Diyar Tayeb [Github](https://github.com/titan-ui) | [linkedin](https://stackoverflow.com/users/17604539/titan-ui)
