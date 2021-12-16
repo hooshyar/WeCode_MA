@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/hooshyar/Desktop/development/wecode/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-uk/values-uk.xml",
+            "map": [
+                {
+                    "source": "/Users/hooshyar/.gradle/caches/transforms-3/c80222277741ca4f65f1d44326cefd06/transformed/core-1.6.0/res/values-uk/values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
