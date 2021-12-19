@@ -32,7 +32,11 @@ class _WeCodeAppState extends State<WeCodeApp> {
                   child: Text('change the name'),
                   onPressed: () {
                     setState(() {
-                      mainName = 'hama';
+                      if (mainName == 'hama') {
+                        mainName = 'Wshyar';
+                      } else {
+                        mainName = 'hama';
+                      }
                     });
                   })
             ],
