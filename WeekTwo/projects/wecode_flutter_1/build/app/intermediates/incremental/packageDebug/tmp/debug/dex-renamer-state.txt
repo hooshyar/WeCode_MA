@@ -1,4 +1,4 @@
-#Sun Dec 19 14:46:51 AST 2021
+#Sun Dec 19 15:34:05 AST 2021
 base.0=/Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex

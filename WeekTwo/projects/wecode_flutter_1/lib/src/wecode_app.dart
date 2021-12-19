@@ -15,17 +15,40 @@ class WeCodeApp extends StatelessWidget {
           title: Text('WeCode'),
           centerTitle: true,
         ),
-        body: Center(
-          // Added a text widget the value will be stored on main collection, the config document
-          child: Text(
-            'Hello Kurdistan',
-            style: TextStyle(
-                fontSize: 26,
-                fontWeight: FontWeight.w300,
-                color:
-                    // we used standard material design colors
-                    Colors.grey[900]),
-          ),
+        body: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            Text(
+              'Hello Kurdistan',
+              style: TextStyle(
+                  fontSize: 26,
+                  fontWeight: FontWeight.w300,
+                  color:
+                      // we used standard material design colors
+                      Colors.grey[900]),
+            ),
+            Image.network(
+                'https://constitutionnet.org/sites/default/files/kurdistan-4542293_1920.jpg'),
+            Row(
+              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              children: [
+                Container(
+                  height: 60,
+                  width: 50,
+                  decoration: BoxDecoration(
+                      color: Colors.blueAccent,
+                      borderRadius: BorderRadius.all(Radius.circular(18))),
+                ),
+                Container(
+                  height: 60,
+                  width: 50,
+                  decoration: BoxDecoration(
+                      color: Colors.redAccent,
+                      borderRadius: BorderRadius.all(Radius.circular(2))),
+                ),
+              ],
+            )
+          ],
         ),
       ),
     );
