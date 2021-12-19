@@ -15,40 +15,41 @@ class WeCodeApp extends StatelessWidget {
           title: Text('WeCode'),
           centerTitle: true,
         ),
-        body: Column(
-          mainAxisAlignment: MainAxisAlignment.center,
-          children: [
-            Text(
-              'Hello Kurdistan',
-              style: TextStyle(
-                  fontSize: 26,
-                  fontWeight: FontWeight.w300,
-                  color:
-                      // we used standard material design colors
-                      Colors.grey[900]),
-            ),
-            Image.network(
-                'https://constitutionnet.org/sites/default/files/kurdistan-4542293_1920.jpg'),
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                Container(
-                  height: 60,
-                  width: 50,
-                  decoration: BoxDecoration(
-                      color: Colors.blueAccent,
-                      borderRadius: BorderRadius.all(Radius.circular(18))),
+        body: Container(
+          child: Column(
+            children: [
+              Text('Hello'),
+              Container(
+                decoration: BoxDecoration(color: Colors.purpleAccent[200]),
+                height: 140,
+              ),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceAround,
+                children: [
+                  Container(
+                    width: 150,
+                    height: 120,
+                    color: Colors.blue,
+                  ),
+                  Container(width: 150, height: 120, color: Colors.red),
+                ],
+              ),
+              Container(
+                margin: EdgeInsets.all(30),
+                height: 120,
+                color: Colors.redAccent[200],
+                child: Container(
+                  alignment: Alignment.bottomCenter,
+                  padding: EdgeInsets.only(bottom: 15),
+                  margin: EdgeInsets.all(20),
+                  height: 50,
+                  width: double.infinity,
+                  color: Colors.grey,
+                  child: Text('Some text'),
                 ),
-                Container(
-                  height: 60,
-                  width: 50,
-                  decoration: BoxDecoration(
-                      color: Colors.redAccent,
-                      borderRadius: BorderRadius.all(Radius.circular(2))),
-                ),
-              ],
-            )
-          ],
+              )
+            ],
+          ),
         ),
       ),
     );
