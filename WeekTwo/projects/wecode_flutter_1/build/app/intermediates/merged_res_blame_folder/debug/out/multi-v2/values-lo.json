@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/hooshyar/Desktop/development/wecode/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
+            "outputFile": "/Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lo/values-lo.xml",
             "map": [
                 {
                     "source": "/Users/hooshyar/.gradle/caches/transforms-3/c80222277741ca4f65f1d44326cefd06/transformed/core-1.6.0/res/values-lo/values-lo.xml",
