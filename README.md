@@ -149,7 +149,7 @@ Karwan Khdr
 
 Zaynab Azad khdir
 
-Hekar Azwar Mohammed Salih [Github](https://github.com/HekarAMohammad) | [Stack Overflow](https://stackoverflow.com/users/13974543/hekar-azwar-mohemmad-salih) 
+Hekar Azwar Mohammed Salih [Github](https://github.com/HekarAMohammad) | [Stack Overflow](https://stackoverflow.com/users/13974543/hekar-azwar-mohemmad-salih) | [linkedin](https://www.linkedin.com/in/hekar-azwar-mohammed-salih-579a601a6/)
 
 Rasan Diyar Tayeb [Github](https://github.com/titan-ui) | [linkedin](https://stackoverflow.com/users/17604539/titan-ui)
 
