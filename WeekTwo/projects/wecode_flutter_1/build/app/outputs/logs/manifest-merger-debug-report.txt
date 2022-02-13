@@ -1,0 +1,95 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml:3:4-33:19
+MERGED from [androidx.core:core:1.6.0] /Users/hooshyar/.gradle/caches/transforms-3/c80222277741ca4f65f1d44326cefd06/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/hooshyar/.gradle/caches/transforms-3/c80222277741ca4f65f1d44326cefd06/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hooshyar/.gradle/caches/transforms-3/d25d81fab05de8a2ebe2e2ff6c31f83a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hooshyar/.gradle/caches/transforms-3/d25d81fab05de8a2ebe2e2ff6c31f83a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/hooshyar/.gradle/caches/transforms-3/c80222277741ca4f65f1d44326cefd06/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:name
+		INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml
+manifest
+ADDED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/hooshyar/.gradle/caches/transforms-3/12ba17cdc935f7f9218cffcf6d2acb06/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/ab0443673dc1de8371ef8a1cb0c9c8c4/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/966c67fc6d66793238ae8a2c2f00e1e2/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/032b1ce8642a1a204131c7b16d859426/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/7d3add999d360539e8a163d1b28442a4/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/hooshyar/.gradle/caches/transforms-3/c80222277741ca4f65f1d44326cefd06/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hooshyar/.gradle/caches/transforms-3/1973e174d65e3cd8cb4d19d8b04d2ad1/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/047251e5eae3600c3fc3f81e52b459ee/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hooshyar/.gradle/caches/transforms-3/6dbf0fa483803c89660a2a8a4694a5f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hooshyar/.gradle/caches/transforms-3/6a906406607c93e73721d1e4eda88194/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/ceb86e7b59b347f91ae031ffdc33bd5a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hooshyar/.gradle/caches/transforms-3/2eaf6bad248df800e7b01a803d159fac/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hooshyar/.gradle/caches/transforms-3/d25d81fab05de8a2ebe2e2ff6c31f83a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hooshyar/.gradle/caches/transforms-3/509df14091294610e2b8e472ab159df2/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hooshyar/.gradle/caches/transforms-3/c3d47c060fcd2deafa792ae5409e0a7c/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml:2:5-33
+		INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml:1:1-34:12
+		INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/hooshyar/.gradle/caches/transforms-3/12ba17cdc935f7f9218cffcf6d2acb06/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/hooshyar/.gradle/caches/transforms-3/12ba17cdc935f7f9218cffcf6d2acb06/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/ab0443673dc1de8371ef8a1cb0c9c8c4/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/ab0443673dc1de8371ef8a1cb0c9c8c4/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/966c67fc6d66793238ae8a2c2f00e1e2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/966c67fc6d66793238ae8a2c2f00e1e2/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/032b1ce8642a1a204131c7b16d859426/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/032b1ce8642a1a204131c7b16d859426/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/7d3add999d360539e8a163d1b28442a4/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/7d3add999d360539e8a163d1b28442a4/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/hooshyar/.gradle/caches/transforms-3/c80222277741ca4f65f1d44326cefd06/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/hooshyar/.gradle/caches/transforms-3/c80222277741ca4f65f1d44326cefd06/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hooshyar/.gradle/caches/transforms-3/1973e174d65e3cd8cb4d19d8b04d2ad1/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/hooshyar/.gradle/caches/transforms-3/1973e174d65e3cd8cb4d19d8b04d2ad1/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/047251e5eae3600c3fc3f81e52b459ee/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/047251e5eae3600c3fc3f81e52b459ee/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hooshyar/.gradle/caches/transforms-3/6dbf0fa483803c89660a2a8a4694a5f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hooshyar/.gradle/caches/transforms-3/6dbf0fa483803c89660a2a8a4694a5f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hooshyar/.gradle/caches/transforms-3/6a906406607c93e73721d1e4eda88194/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hooshyar/.gradle/caches/transforms-3/6a906406607c93e73721d1e4eda88194/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/ceb86e7b59b347f91ae031ffdc33bd5a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/hooshyar/.gradle/caches/transforms-3/ceb86e7b59b347f91ae031ffdc33bd5a/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hooshyar/.gradle/caches/transforms-3/2eaf6bad248df800e7b01a803d159fac/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hooshyar/.gradle/caches/transforms-3/2eaf6bad248df800e7b01a803d159fac/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hooshyar/.gradle/caches/transforms-3/d25d81fab05de8a2ebe2e2ff6c31f83a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/hooshyar/.gradle/caches/transforms-3/d25d81fab05de8a2ebe2e2ff6c31f83a/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hooshyar/.gradle/caches/transforms-3/509df14091294610e2b8e472ab159df2/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/hooshyar/.gradle/caches/transforms-3/509df14091294610e2b8e472ab159df2/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hooshyar/.gradle/caches/transforms-3/c3d47c060fcd2deafa792ae5409e0a7c/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/hooshyar/.gradle/caches/transforms-3/c3d47c060fcd2deafa792ae5409e0a7c/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/debug/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /Users/hooshyar/Desktop/development/WeCode_MA/WeekTwo/projects/wecode_flutter_1/android/app/src/debug/AndroidManifest.xml:6:22-64
